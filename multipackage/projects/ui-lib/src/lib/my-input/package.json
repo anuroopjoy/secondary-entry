@@ -1,0 +1,12 @@
+{
+  "ngPackage": {
+    "lib": {
+      "entryFile": "src/public-api.ts",
+      "umdModuleIds": {
+        "@ng-select/ng-select": "@ng-select/ng-select"
+      },
+      "flatModuleFile": "ui-lib-my-input",
+      "umdId": "uiLib.myInput"
+    }
+  }
+}
